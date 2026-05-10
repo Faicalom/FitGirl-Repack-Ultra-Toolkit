@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableExtensions DisableDelayedExpansion
 chcp 65001 >nul
-title Smart Download Link Toolkit - FaicalOm_DZ
+title FitGirl Repack Ultra Toolkit - FaicalOm_DZ
 
 cd /d "%~dp0" || (
     echo [ERROR] Cannot enter toolkit folder.
@@ -19,7 +19,7 @@ echo   F      A     A    I   C       A     A L      O     O M   M
 echo   F      A     A  IIIII  CCCCC  A     A LLLLL   OOOOO  M   M
 echo.
 echo                         FaicalOm_DZ
-echo                  Smart Download Link Toolkit
+echo                  FitGirl Repack Ultra Toolkit
 echo ================================================================
 echo.
 

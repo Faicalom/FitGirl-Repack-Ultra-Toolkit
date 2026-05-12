@@ -65,7 +65,7 @@ if "%SOURCE_URL%"=="" (
 rem Clean previous generated files before starting a fresh run
 del /q "source_links.txt" "source_manifest.txt" "fuckingfast_links.txt" "fuckingfast_manifest.txt" >nul 2>nul
 del /q "real_direct_links.txt" "resolved_manifest.txt" "resolved_map_debug.txt" "failed_links.txt" >nul 2>nul
-del /q "selected_links.txt" "روابط_نهائية.txt" "debug_*.html" "debug_*.png" >nul 2>nul
+del /q "selected_links.txt" "final_links.txt" "debug_*.html" "debug_*.png" >nul 2>nul
 
 echo.
 echo ================================================================
